@@ -1,4 +1,4 @@
-# Hi, I'm Fiyaz 👋
+# Hi, I'm Faizan 👋
 Self-taught Android & full-stack developer from Pakistan.
 I build and ship apps and web tools, mostly from my phone.
 
